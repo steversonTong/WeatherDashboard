@@ -1,0 +1,22 @@
+{
+  "name": "weatherdashboard",
+  "version": "1.0.0",
+  "description": "User story:\r User can now enter a city they would like to look up and it will give them indept information about today.\r I will also give user just the tempurature and humidity for the 5 next upcoming days.\r Recently searched cities will now be created and you can click on that city again to view its information",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steversonTong/WeatherDashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steversonTong/WeatherDashboard/issues"
+  },
+  "homepage": "https://github.com/steversonTong/WeatherDashboard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
