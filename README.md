@@ -1,4 +1,4 @@
-# homework6
+# Weather Dashboard
 
 User story:
 User can now enter a city they would like to look up and it will give them indept information about today.
@@ -7,3 +7,4 @@ Recently searched cities will now be created and you can click on that city agai
 
 Uses jquery and open weather map through rapid api.
 
+Deployment: https://steversontong.github.io/WeatherDashboard/
